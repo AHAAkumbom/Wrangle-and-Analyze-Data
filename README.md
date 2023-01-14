@@ -5,7 +5,7 @@
 
 This projects  consisted of a data set from https://www.kaggle.com/datasets/nurudeenabdulsalaam/weratedogs-twitter-archive
 ## Gather
-Gathering data wasn't complicated and we succeded to gether all the date from the diffrent sourcesthat is
+Gathering data wasn't complicated and we succeded to gether all the date from the diffrent sources which where:
 1. The twitter-archive-enhanced.csv using the = pd.read_csv() command
 2. The image-predictions.tsv using the response = requests.get(url) command
 3. We could use the twitter API so we used the tweet-json.txt file for the tweet-api data
